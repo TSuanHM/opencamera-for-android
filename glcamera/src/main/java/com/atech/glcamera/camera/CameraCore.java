@@ -35,6 +35,7 @@ public class CameraCore {
     public int fitHeight;
     public int videoSizes[] = new int[2];
 
+    private static final String TAG = "aaaaa";
     
     public CameraCore(SurfaceView surfaceView) {
 
@@ -65,6 +66,10 @@ public class CameraCore {
 
                 //1.设置预览尺寸，防止预览画面变形
                 List<Camera.Size> sizes1 = parameters.getSupportedPreviewSizes(); //得到的比例，宽是大头
+                for (Camera.Size s : sizes1) {
+                    Log.d(TAG, "openCamera getSupportedPreviewSizes " + s.width + ":" + s.height);
+                }
+                Log.d(TAG, "openCamera  sufaceview :" + surfaceView.getWidth()+":" + surfaceView.getHeight());
                 int[] result1 = getOptimalSize(sizes1, surfaceView.getWidth(), surfaceView.getHeight());
                 parameters.setPreviewSize(result1[0], result1[1]);
                 fitWidth = result1[0];
@@ -72,6 +77,11 @@ public class CameraCore {
 
                 //2.设置拍照取得的图片尺寸
                 List<Camera.Size>sizes2 = parameters.getSupportedPictureSizes();
+
+                for (Camera.Size s : sizes2) {
+                    Log.d(TAG, "openCamera getSupportedPictureSizes " + s.width + ":" + s.height);
+                }
+
                 int[] result2 = getOptimalSize(sizes2,surfaceView.getWidth(),surfaceView.getHeight());
                 parameters.setPictureSize(result2[0],result2[1]);
 

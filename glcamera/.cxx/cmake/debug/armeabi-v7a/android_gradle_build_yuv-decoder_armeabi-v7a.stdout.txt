@@ -1,0 +1,3 @@
+ninja: Entering directory `D:\opencamera-for-android\glcamera\.cxx\cmake\debug\armeabi-v7a'
+[1/2] Building CXX object CMakeFiles/yuv-decoder.dir/librtmp/srs_librtmp.cpp.o
+[2/2] Linking CXX shared library D:\opencamera-for-android\glcamera\build\intermediates\cmake\debug\obj\armeabi-v7a\libyuv-decoder.so

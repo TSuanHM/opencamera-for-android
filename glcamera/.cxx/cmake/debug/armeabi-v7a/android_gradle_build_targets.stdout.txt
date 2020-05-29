@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\opencamera-for-android\glcamera\.cxx\cmake\debug\armeabi-v7a'
+ninja: no work to do.

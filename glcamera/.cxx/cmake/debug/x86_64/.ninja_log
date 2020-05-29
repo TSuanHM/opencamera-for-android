@@ -1,0 +1,12 @@
+# ninja log v5
+1	98	612424999	CMakeFiles/yuv-decoder.dir/yuv-decoder.c.o	bd82307cd7dc09e9
+4	4510	612425003	CMakeFiles/srs_librtmp.dir/srs_librtmp.cpp.o	ae9c6080fb7b4fb5
+4511	4910	612425004	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/x86_64/libsrs_librtmp.so	7499a473ddf4d25f
+4910	5006	612425004	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/x86_64/libyuv-decoder.so	c33b9abc062a89ba
+1	219	612439311	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/x86_64/libyuv-decoder.so	b552071cbe735c41
+2	4973	612443093	CMakeFiles/yuv-decoder.dir/librtmp/srs_librtmp.cpp.o	41e1d68ab45ea0a7
+4974	5436	612443093	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/x86_64/libyuv-decoder.so	fc25bcae0852e568
+4	7150	612443265	CMakeFiles/yuv-decoder.dir/librtmp/srs_librtmp.cpp.o	41e1d68ab45ea0a7
+7150	7576	612443265	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/x86_64/libyuv-decoder.so	fc25bcae0852e568
+3	4266	612443357	CMakeFiles/yuv-decoder.dir/librtmp/srs_librtmp.cpp.o	41e1d68ab45ea0a7
+4266	4505	612443358	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/x86_64/libyuv-decoder.so	fc25bcae0852e568

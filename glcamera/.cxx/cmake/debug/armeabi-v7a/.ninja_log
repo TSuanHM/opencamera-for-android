@@ -1,0 +1,20 @@
+# ninja log v5
+1	87	612362436	CMakeFiles/yuv-decoder.dir/yuv-decoder.c.o	e9dae6bc101125df
+87	162	612362436	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/armeabi-v7a/libyuv-decoder.so	76ecda0c80840e15
+2	7117	612422442	CMakeFiles/srs_librtmp.dir/srs_librtmp.cpp.o	819cff92cc6c26e6
+7119	7843	612422443	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/armeabi-v7a/libsrs_librtmp.so	3f6a76671404dc3e
+7843	8027	612422443	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/armeabi-v7a/libyuv-decoder.so	b55604aaa5129774
+8	8956	612422760	CMakeFiles/srs_librtmp.dir/srs_librtmp.cpp.o	819cff92cc6c26e6
+8956	9633	612422761	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/armeabi-v7a/libsrs_librtmp.so	3f6a76671404dc3e
+9633	9939	612422761	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/armeabi-v7a/libyuv-decoder.so	b55604aaa5129774
+7	7407	612422822	CMakeFiles/srs_librtmp.dir/srs_librtmp.cpp.o	819cff92cc6c26e6
+7407	7665	612422823	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/armeabi-v7a/libsrs_librtmp.so	3f6a76671404dc3e
+7665	7762	612422823	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/armeabi-v7a/libyuv-decoder.so	b55604aaa5129774
+1	74	612439310	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/armeabi-v7a/libyuv-decoder.so	76ecda0c80840e15
+1	8667	612442956	CMakeFiles/yuv-decoder.dir/librtmp/srs_librtmp.cpp.o	71545f7cb87a872b
+3	5669	612443072	CMakeFiles/yuv-decoder.dir/librtmp/srs_librtmp.cpp.o	71545f7cb87a872b
+5669	5981	612443073	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/armeabi-v7a/libyuv-decoder.so	ec62e7bf1fbf5887
+3	7147	612443239	CMakeFiles/yuv-decoder.dir/librtmp/srs_librtmp.cpp.o	71545f7cb87a872b
+7147	8571	612443241	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/armeabi-v7a/libyuv-decoder.so	ec62e7bf1fbf5887
+2	6993	612443340	CMakeFiles/yuv-decoder.dir/librtmp/srs_librtmp.cpp.o	71545f7cb87a872b
+6993	7886	612443341	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/armeabi-v7a/libyuv-decoder.so	ec62e7bf1fbf5887

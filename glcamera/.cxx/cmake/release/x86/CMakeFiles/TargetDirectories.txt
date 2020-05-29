@@ -1,0 +1,4 @@
+D:/opencamera-for-android/glcamera/.cxx/cmake/release/x86/CMakeFiles/yuv-decoder.dir
+D:/opencamera-for-android/glcamera/.cxx/cmake/release/x86/CMakeFiles/srs_librtmp.dir
+D:/opencamera-for-android/glcamera/.cxx/cmake/release/x86/CMakeFiles/edit_cache.dir
+D:/opencamera-for-android/glcamera/.cxx/cmake/release/x86/CMakeFiles/rebuild_cache.dir

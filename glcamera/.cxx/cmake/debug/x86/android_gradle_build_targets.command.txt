@@ -1,0 +1,8 @@
+Executable : C:\Users\86176\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\opencamera-for-android\glcamera\.cxx\cmake\debug\x86
+srs_librtmp
+yuv-decoder
+jvmArgs : 
+

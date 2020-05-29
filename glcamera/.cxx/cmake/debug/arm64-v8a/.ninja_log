@@ -1,0 +1,19 @@
+# ninja log v5
+1	89	612362436	CMakeFiles/yuv-decoder.dir/yuv-decoder.c.o	f1160111b7e48c2e
+89	155	612362436	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/arm64-v8a/libyuv-decoder.so	75cd9e2a1bc181a9
+1	6316	612422434	CMakeFiles/srs_librtmp.dir/srs_librtmp.cpp.o	e43a8ba8cb0ef270
+6318	7191	612422435	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/arm64-v8a/libsrs_librtmp.so	2e1d591770c00d08
+7192	7323	612422435	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/arm64-v8a/libyuv-decoder.so	58152ed8b1558ea0
+14	11176	612422748	CMakeFiles/srs_librtmp.dir/srs_librtmp.cpp.o	e43a8ba8cb0ef270
+11176	12309	612422749	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/arm64-v8a/libsrs_librtmp.so	2e1d591770c00d08
+12309	13133	612422750	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/arm64-v8a/libyuv-decoder.so	58152ed8b1558ea0
+7	7224	612422813	CMakeFiles/srs_librtmp.dir/srs_librtmp.cpp.o	e43a8ba8cb0ef270
+7224	8731	612422815	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/arm64-v8a/libsrs_librtmp.so	2e1d591770c00d08
+8731	8825	612422815	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/arm64-v8a/libyuv-decoder.so	58152ed8b1558ea0
+2	231	612439310	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/arm64-v8a/libyuv-decoder.so	75cd9e2a1bc181a9
+2	7423	612443080	CMakeFiles/yuv-decoder.dir/librtmp/srs_librtmp.cpp.o	397ae2bc04124ef7
+7423	8895	612443082	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/arm64-v8a/libyuv-decoder.so	d4a27c269b7f4fda
+3	7166	612443248	CMakeFiles/yuv-decoder.dir/librtmp/srs_librtmp.cpp.o	397ae2bc04124ef7
+7166	8015	612443249	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/arm64-v8a/libyuv-decoder.so	d4a27c269b7f4fda
+3	6480	612443347	CMakeFiles/yuv-decoder.dir/librtmp/srs_librtmp.cpp.o	397ae2bc04124ef7
+6480	7030	612443348	D:/opencamera-for-android/glcamera/build/intermediates/cmake/debug/obj/arm64-v8a/libyuv-decoder.so	d4a27c269b7f4fda

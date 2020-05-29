@@ -1,0 +1,25 @@
+{
+  "buildFiles": [
+    "C:\\Users\\86176\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\86176\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake",
+    "D:\\opencamera-for-android\\glcamera\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\86176\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\opencamera-for-android\\glcamera\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\86176\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\opencamera-for-android\\glcamera\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "srs_librtmp-Release-arm64-v8a": {
+      "artifactName": "srs_librtmp",
+      "buildCommand": "C:\\Users\\86176\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\opencamera-for-android\\glcamera\\.cxx\\cmake\\release\\arm64-v8a\" srs_librtmp",
+      "abi": "arm64-v8a",
+      "output": "D:\\opencamera-for-android\\glcamera\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libsrs_librtmp.so"
+    },
+    "yuv-decoder-Release-arm64-v8a": {
+      "artifactName": "yuv-decoder",
+      "buildCommand": "C:\\Users\\86176\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\opencamera-for-android\\glcamera\\.cxx\\cmake\\release\\arm64-v8a\" yuv-decoder",
+      "abi": "arm64-v8a",
+      "output": "D:\\opencamera-for-android\\glcamera\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libyuv-decoder.so"
+    }
+  }
+}
